@@ -1,0 +1,6 @@
+framework module Pods_361ClimariqWeatherCompass {
+  umbrella header "Pods-361ClimariqWeatherCompass-umbrella.h"
+
+  export *
+  module * { export * }
+}
